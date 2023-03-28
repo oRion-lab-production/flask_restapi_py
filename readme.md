@@ -1,4 +1,4 @@
-## Futuretech api_ft readme
+## readme
 
 ### header file and pycharm conf
 
